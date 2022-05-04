@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fKPnFW4Yb/AtevzzFNSVXL9ZjMcV7WllNoCMAGl0Eh7ffzxy62I4mWA7s7zCfGw0qhjNIKs3iYGB3CBj3ztmw==",
+  "success": true,
+  "projectFilePath": "D:\\NET3.1-DOCKER\\NET3.1-DOCKER.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lkevi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
